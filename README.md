@@ -1,2 +1,10 @@
-# PythonProj2
-For second Python project in MIDS W200
+# __Python Group Project__
+For MIDS Summer '18 Python project for data analysis
+
+## __Contributors__
+* Katie Mo
+* Zeliang (Douglas) Xu
+* John Boudreaux
+
+## __Dataset__
+TBD
