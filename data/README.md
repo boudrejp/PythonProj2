@@ -1,2 +1,4 @@
 # DATA
-A folder for us to store the data source that we end up using. To be updated with documentation, source, context, etc
+Main Data is HipHopLyrics... from https://github.com/fivethirtyeight/data/tree/master/hip-hop-candidate-lyrics
+
+Other data is from https://www.realclearpolitics.com/
