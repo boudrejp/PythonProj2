@@ -33,7 +33,7 @@ Additionally, we are bringing in data sets for polling numbers for the 2016 pres
 
 ## __Analysis__
 
-To answer our broader topic question, several smaller questions will be answered. These will include, but are not limited to:
+To answer our broader topic question, several smaller questions will be answered. These might include, but are not limited to:
 
 * What events lead to song lyric mentions?
 (image of visual here)
