@@ -48,9 +48,9 @@ To answer our broader topic question, several smaller questions will be answered
 * Are some politicians viewed more positively/negatively than others?
 (image of visual here)
 
-## __Final Proposal__
+## __Final Report__
 
-Our final proposal will be structured as a report of around 8-10 pages, with an overall structure of the following:
+Our final report will be structured as a report of around 8-10 pages, with an overall structure of the following:
 * Introduction to the data
 * Question groupings
   * Individual questions
