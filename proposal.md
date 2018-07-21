@@ -47,3 +47,15 @@ To answer our broader topic question, several smaller questions will be answered
 (image of visual here)
 * Are some politicians viewed more positively/negatively than others?
 (image of visual here)
+
+## __Final Proposal__
+
+Our final proposal will be structured as a report of around 8-10 pages, with an overall structure of the following:
+* Introduction to the data
+* Question groupings
+  * Individual questions
+    * Analysis and embedded figures
+  * Conclusions about the question grouping
+* Overall Conclusions
+
+The questions will be grouped by topics. For instance, we might address multiple questions about the relationship between song references and the candidates' roles in the public eye in one grouping, positivity and negativity of each candidate in another, and other groupings as make sense.
