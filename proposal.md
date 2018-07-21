@@ -58,4 +58,7 @@ Our final proposal will be structured as a report of around 8-10 pages, with an 
   * Conclusions about the question grouping
 * Overall Conclusions
 
-The questions will be grouped by topics. For instance, we might address multiple questions about the relationship between song references and the candidates' roles in the public eye in one grouping, positivity and negativity of each candidate in another, and other groupings as make sense.
+The questions will be grouped by topics. The topics will be:
+* Evolution of references over time
+* Aggregated view of positivity and negativity of candidates
+* Perspective of rappers: how many candidates do they rap about, how many songs mentioning candidates do they have, etc...
