@@ -20,7 +20,7 @@ We found a data set from fivethirtyeight.com that provided for the number of tim
   * Uses: probably just as a reference, will not be used actively in this analysis
 
 Additionally, we are bringing in data sets for polling numbers for the 2016 presidential election. These are found in the `data/democrats2016.csv` (169 entires) and `data/republicans2016.csv` (171 entries). This will serve as support for our analysis by giving perspective of how long the candidates were in the race, and relatively how popular they are. While more sophisticated time series analysis could be done, that is beyond the scope of this assignment. All analysis will be around aggregations and averages. Both data tables have the following columns:
-* __Poll__: - the poller
+* __Poll__: the poller
   * Uses:
 * __Date__: the dates the poll was conducted
   * Uses:
