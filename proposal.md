@@ -15,7 +15,7 @@ We found a data set from fivethirtyeight.com that provided for the number of tim
 * __album_release_date__: year of album release
   * Uses: allows for some analysis of candidates being relevant for hip hop before their presidential run
 * __line__: the specific lyric mentioning the candidate
-  * Uses: "spice" for our report, and possibly a word frequency approach for topics + favorability 
+  * Uses: "spice" for our report, and possibly a word frequency approach for topics + favorability
 * __url__: link to full song lyrics
   * Uses: probably just as a reference, will not be used actively in this analysis
 
@@ -36,7 +36,7 @@ Additionally, we are bringing in data sets for polling numbers for the 2016 pres
 To answer our broader topic question, several smaller questions will be answered. These might include, but are not limited to:
 
 * What events lead to song lyric mentions?
-(image of visual here)
+![Number of Song references For Candidates By Year](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)
 * Do rappers talk about one candidate? Or multiple?
 (image of visual here)
 * Are candidates talked about before they run for president? Or only because they are in public eye?
@@ -46,7 +46,7 @@ To answer our broader topic question, several smaller questions will be answered
 * Do song mentions tend to correlate to how long a candidate was in the race?
 (image of visual here)
 * Are some politicians viewed more positively/negatively than others?
-(image of visual here)
+![Sentiment of Song References For Candidates](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)
 
 ## __Final Report__
 
