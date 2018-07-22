@@ -37,7 +37,7 @@ To answer our broader topic question, several smaller questions will be answered
 
 * What events lead to song lyric mentions?
 
-![Number of Song references For Candidates By Year](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)
+![Number of Song references For Candidates By Year](https://github.com/boudrejp/PythonProj2/blob/master/images/Number%20of%20Song%20References%20For%20Candidates%20By%20Year.png
 
 * Do rappers talk about one candidate? Or multiple?
 (image of visual here)
@@ -55,6 +55,7 @@ To answer our broader topic question, several smaller questions will be answered
 
 Our final report will be structured as a report of around 8-10 pages, with an overall structure of the following:
 * Introduction to the data
+  * Data preprocessing techniques
 * Question groupings
   * Individual questions
     * Analysis and embedded figures
