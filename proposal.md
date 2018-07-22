@@ -36,7 +36,9 @@ Additionally, we are bringing in data sets for polling numbers for the 2016 pres
 To answer our broader topic question, several smaller questions will be answered. These might include, but are not limited to:
 
 * What events lead to song lyric mentions?
+
 ![Number of Song references For Candidates By Year](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)
+
 * Do rappers talk about one candidate? Or multiple?
 (image of visual here)
 * Are candidates talked about before they run for president? Or only because they are in public eye?
@@ -46,6 +48,7 @@ To answer our broader topic question, several smaller questions will be answered
 * Do song mentions tend to correlate to how long a candidate was in the race?
 (image of visual here)
 * Are some politicians viewed more positively/negatively than others?
+
 ![Sentiment of Song References For Candidates](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)
 
 ## __Final Report__
