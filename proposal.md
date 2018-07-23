@@ -42,7 +42,7 @@ To answer our broader topic question, several smaller questions will be answered
 * Do rappers talk about one candidate? Or multiple?
 (image of visual here)
 * Are candidates talked about before they run for president? Or only because they are in public eye?
-(image of visual here)
+![Ted Cruz lyrics mentions by year](
 * How has Trump’s image in rap changed over time with changing roles in public eye?
 (image of visual here)
 * Do song mentions tend to correlate to how long a candidate was in the race?
