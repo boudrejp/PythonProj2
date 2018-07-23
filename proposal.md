@@ -40,7 +40,7 @@ To answer our broader topic question, several smaller questions will be answered
 ![Number of Song references For Candidates By Year](https://github.com/boudrejp/PythonProj2/blob/master/images/Number%20of%20Song%20References%20For%20Candidates%20By%20Year.png)
 
 * Do rappers talk about one candidate? Or multiple?
-(image of visual here)
+![Candidates per artist](https://github.com/boudrejp/PythonProj2/blob/master/images/candidates_per_artist.png)
 * Are candidates talked about before they run for president? Or only because they are in public eye?
 (image of visual here)
 * How has Trump’s image in rap changed over time with changing roles in public eye?
