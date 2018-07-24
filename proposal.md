@@ -47,7 +47,7 @@ To answer our broader topic question, several smaller questions will be answered
 * How has Trump’s image in rap changed over time with changing roles in public eye?
 ![Donald Trump lyrics mentions by year](https://github.com/boudrejp/PythonProj2/blob/Doug/DTrump.png)
 * Do song mentions tend to correlate to how long a candidate was in the race?
-(image of visual here)
+![scatterplot](https://github.com/boudrejp/PythonProj2/blob/master/images/Rplot.png?raw=true)
 * Are some politicians viewed more positively/negatively than others?
 
 ![Sentiment of Song References For Candidates](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)
