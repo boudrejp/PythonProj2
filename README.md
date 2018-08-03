@@ -6,8 +6,8 @@ For MIDS Summer '18 Python project for data analysis
 * Zeliang (Douglas) Xu
 * John Boudreaux
 
-## __Dataset__
-See "data" subfolder
-
-*** Notes to team:
-I've added an R script to process the dates from the secondary sources. I can hack that together in R much fast than I can in python for the time being... so I'm just going to leave that there for now until I can rewrite in python!
+## __This Repository__
+* __analysis__: contains scripts used to process and manipulate our data, perform analysis, and create the visuals for our report
+* __data__: contains all of our data sources with a README explaining where they came from
+* __images__: images of our graphics for our report
+* __report__: the final report for our project
