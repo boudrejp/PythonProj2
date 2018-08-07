@@ -40,14 +40,14 @@ To answer our broader topic question, several smaller questions will be answered
 ![Number of Song references For Candidates By Year](https://github.com/boudrejp/PythonProj2/blob/master/images/Number%20of%20Song%20References%20For%20Candidates%20By%20Year.png)
 
 * Do rappers talk about one candidate? Or multiple?
-(image of visual here)
+![Candidates per artist](https://github.com/boudrejp/PythonProj2/blob/master/images/candidates_per_artist.PNG?raw=true)
 * Are candidates talked about before they run for president? Or only because they are in public eye?
 ![Ted Cruz lyrics mentions by year](https://github.com/boudrejp/PythonProj2/blob/Doug/TedCruze.png)
 ![Hillary Clinton hyrics mentiones by year](https://github.com/boudrejp/PythonProj2/blob/Doug/Hillary.png)
 * How has Trump’s image in rap changed over time with changing roles in public eye?
 ![Donald Trump lyrics mentions by year](https://github.com/boudrejp/PythonProj2/blob/Doug/DTrump.png)
 * Do song mentions tend to correlate to how long a candidate was in the race?
-(image of visual here)
+![scatterplot](https://github.com/boudrejp/PythonProj2/blob/master/images/Rplot.png?raw=true)
 * Are some politicians viewed more positively/negatively than others?
 
 ![Sentiment of Song References For Candidates](https://github.com/boudrejp/PythonProj2/blob/master/images/Sentiment%20of%20Song%20References%20For%20Candidates.png)

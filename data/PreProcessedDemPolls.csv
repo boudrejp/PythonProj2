@@ -1,0 +1,169 @@
+,Poll,Sample,MoE,Clinton,Sanders,Spread,newDate
+0,RCP Average,,,52.8,41.4,Clinton +11.4,2016-06-05
+1,IBD/TIPP,351 RV,5.3,51.0,37,Clinton +14,2016-06-05
+2,Quinnipiac,678 RV,3.8,53.0,39,Clinton +14,2016-05-30
+3,ABC News/Wash Post,373 RV,,56.0,42,Clinton +14,2016-05-19
+4,NBC News/Wall St. Jrnl,342 LV,5.3,53.0,45,Clinton +8,2016-05-19
+5,CBS News/NY Times,371 LV,6,51.0,44,Clinton +7,2016-05-17
+6,CNN/ORC,405 LV,5,51.0,43,Clinton +8,2016-05-01
+7,IBD/TIPP,355 RV,5.3,49.0,43,Clinton +6,2016-04-28
+8,USA Today/Suffolk,363 LV,5.1,50.0,45,Clinton +5,2016-04-24
+9,Pew Research,738 RV,,54.0,42,Clinton +12,2016-04-19
+10,FOX News,450 RV,4.5,48.0,46,Clinton +2,2016-04-13
+11,NBC News/Wall St. Jrnl,339 LV,5.3,50.0,48,Clinton +2,2016-04-14
+12,CBS News,359 LV,6,50.0,44,Clinton +6,2016-04-12
+13,The Atlantic/PRRI,788 RV,,46.0,47,Sanders +1,2016-04-03
+14,IBD/TIPP,388 RV,5.1,45.0,44,Clinton +1,2016-04-02
+15,McClatchy/Marist,497 RV,4.4,47.0,49,Sanders +2,2016-03-31
+16,Pew Research,842 RV,3.8,49.0,43,Clinton +6,2016-03-27
+17,PPP (D),505 LV,4.4,54.0,36,Clinton +18,2016-03-26
+18,FOX News,410 LV,5,55.0,42,Clinton +13,2016-03-22
+19,Bloomberg,311 LV,5.6,48.0,49,Sanders +1,2016-03-22
+20,CBS News/NY Times,388 LV,6,50.0,45,Clinton +5,2016-03-20
+21,CNN/ORC,397 RV,5,51.0,44,Clinton +7,2016-03-20
+22,Monmouth,391 RV,5,55.0,37,Clinton +18,2016-03-20
+23,Quinnipiac,635 RV,3.9,50.0,38,Clinton +12,2016-03-21
+24,NBC News/Wall St. Jrnl,410 LV,4.8,53.0,44,Clinton +9,2016-03-06
+25,ABC News/Wash Post,RV,5.5,49.0,42,Clinton +7,2016-03-06
+26,CNN/ORC,427 RV,5,55.0,38,Clinton +17,2016-02-27
+27,Rasmussen Reports,541 LV,4.5,53.0,31,Clinton +22,2016-02-28
+28,IBD/TIPP,334 RV,5.5,45.0,43,Clinton +2,2016-02-24
+29,FOX News,429 LV,4.5,44.0,47,Sanders +3,2016-02-17
+30,NBC News/Wall St. Jrnl,400 LV,4.9,53.0,42,Clinton +11,2016-02-16
+31,CBS News,549 LV,5,47.0,39,Clinton +8,2016-02-16
+32,USA Today/Suffolk,319 LV,5.5,50.0,40,Clinton +10,2016-02-15
+33,Quinnipiac,563 LV,4.1,44.0,42,Clinton +2,2016-02-15
+34,Quinnipiac,484 RV,4.5,44.0,42,Clinton +2,2016-02-04
+35,Rasmussen Reports,574 LV,4.5,50.0,32,Clinton +18,2016-02-04
+36,PPP (D),517 LV,4.3,53.0,32,Clinton +21,2016-02-03
+37,IBD/TIPP,349 RV,5.4,50.0,38,Clinton +12,2016-01-27
+38,CNN/ORC,440 RV,4.5,52.0,38,Clinton +14,2016-01-24
+39,ABC News/Wash Post,406 RV,5.5,55.0,36,Clinton +19,2016-01-24
+40,FOX News,375 LV,5,49.0,37,Clinton +12,2016-01-21
+41,Monmouth,352 RV,5.2,52.0,37,Clinton +15,2016-01-18
+42,NBC News/Wall St. Jrnl,400 LV,4.9,59.0,34,Clinton +25,2016-01-13
+43,CBS/NY Times,389 LV,6,48.0,41,Clinton +7,2016-01-10
+44,IBD/TIPP,378 LV,5.1,43.0,39,Clinton +4,2016-01-08
+45,FOX News,360 RV,5,54.0,39,Clinton +15,2016-01-07
+46,Rasmussen Reports,546 LV,4.5,46.0,30,Clinton +16,2015-12-21
+47,CNN/ORC,414 RV,5,50.0,34,Clinton +16,2015-12-21
+48,Quinnipiac,462 RV,4.6,61.0,30,Clinton +31,2015-12-20
+49,FOX News,390 RV,5,56.0,34,Clinton +22,2015-12-17
+50,PPP (D),525 LV,4.3,56.0,28,Clinton +28,2015-12-17
+51,ABC News/Wash Post,377 RV,5.5,59.0,28,Clinton +31,2015-12-13
+52,Monmouth,374 RV,5.1,59.0,26,Clinton +33,2015-12-13
+53,NBC/WSJ,400 LV,4.9,56.0,37,Clinton +19,2015-12-09
+54,CBS/NY Times,384 LV,6,52.0,32,Clinton +20,2015-12-08
+55,USA Today/Suffolk,363 LV,5.1,56.0,29,Clinton +27,2015-12-06
+56,IBD/TIPP,345 RV,5.4,51.0,33,Clinton +18,2015-12-04
+57,CNN/ORC,403 RV,5,58.0,30,Clinton +28,2015-12-01
+58,Quinnipiac,573 RV,4.1,60.0,30,Clinton +30,2015-11-30
+59,FOX News,366 RV,5,55.0,32,Clinton +23,2015-11-19
+60,ABC/Wash Post,352 RV,6,60.0,34,Clinton +26,2015-11-19
+61,PPP (D),538 RV,4.2,59.0,26,Clinton +33,2015-11-17
+62,Bloomberg,385 RV,5,55.0,30,Clinton +25,2015-11-17
+63,Rasmussen Reports,506 LV,4.5,50.0,29,Clinton +21,2015-11-16
+64,CBS News/NYT,418 RV,6,52.0,33,Clinton +19,2015-11-10
+65,FOX News,505 RV,4,56.0,31,Clinton +25,2015-11-03
+66,McClatchy/Marist,511 RV,4.3,57.0,35,Clinton +22,2015-11-05
+67,Quinnipiac,502 RV,4.4,53.0,35,Clinton +18,2015-11-02
+68,NBC/WSJ,400 LV,4.9,62.0,31,Clinton +31,2015-10-29
+69,IBD/TIPP,356 RV,5.3,48.0,33,Clinton +15,2015-10-29
+70,NBC News/Wall St. Jrnl,400 RV,4.9,49.0,29,Clinton +20,2015-10-18
+71,Monmouth,340 RV,5.3,48.0,21,Clinton +27,2015-10-18
+72,ABC News/Wash Post,444 RV,5.5,54.0,23,Clinton +31,2015-10-18
+73,CNN/ORC,291 RV,5,45.0,29,Clinton +16,2015-10-17
+74,FOX News,353 RV,5,45.0,25,Clinton +20,2015-10-12
+75,CBS News,343 RV,6,46.0,27,Clinton +19,2015-10-08
+76,PPP (D),551 RV,4.2,42.0,24,Clinton +18,2015-10-04
+77,IBD/TIPP,348 RV,,42.0,18,Clinton +24,2015-10-01
+78,USA Today/Suffolk,430 LV,4.7,41.0,23,Clinton +18,2015-09-28
+79,Pew Research*,387 RV,,45.0,24,Clinton +21,2015-09-27
+80,NBC News/Wall St. Jrnl,256 RV,6.5,42.0,35,Clinton +7,2015-09-24
+81,FOX News,381 LV,5,44.0,30,Clinton +14,2015-09-22
+82,Bloomberg,375 RV,5.1,33.0,24,Clinton +9,2015-09-21
+83,Quinnipiac,587 RV,4,43.0,25,Clinton +18,2015-09-21
+84,CNN/ORC,392 RV,5,42.0,24,Clinton +18,2015-09-19
+85,CBS News/NY Times,351 RV,6,47.0,27,Clinton +20,2015-09-13
+86,ABC News/Wash Post,RV,4,42.0,24,Clinton +18,2015-09-10
+87,CNN/ORC,395 RV,5,37.0,27,Clinton +10,2015-09-08
+88,Monmouth,339 RV,5.3,42.0,20,Clinton +22,2015-09-02
+89,PPP (D),545 LV,4.2,55.0,20,Clinton +35,2015-08-30
+90,Quinnipiac,647 RV,3.9,45.0,22,Clinton +23,2015-08-25
+91,Rasmussen Reports,536 LV,4,50.0,24,Clinton +26,2015-08-24
+92,CNN/ORC,358 RV,5,47.0,29,Clinton +18,2015-08-16
+93,FOX News,401 LV,4.5,49.0,30,Clinton +19,2015-08-13
+94,Monmouth,429 RV,4.7,52.0,16,Clinton +36,2015-08-02
+95,FOX News,499 LV,4,51.0,22,Clinton +29,2015-08-02
+96,CBS News,362 RV,5,58.0,17,Clinton +41,2015-08-02
+97,NBC News/Wall St. Jrnl,253 RV,6.2,59.0,25,Clinton +34,2015-07-30
+98,Quinnipiac,681 RV,3.8,55.0,17,Clinton +38,2015-07-28
+99,CNN/ORC,392 RV,5,56.0,19,Clinton +37,2015-07-25
+100,PPP (D),496 RV,4.4,57.0,22,Clinton +35,2015-07-21
+101,ABC News/Wash Post,RV,,63.0,14,Clinton +49,2015-07-19
+102,FOX News,382 RV,5,59.0,19,Clinton +40,2015-07-15
+103,USA Today/Suffolk,434 LV,3,59.0,14,Clinton +45,2015-07-12
+104,Monmouth,357 RV,5.2,51.0,17,Clinton +34,2015-07-12
+105,CNN/ORC,428 RV,4.5,58.0,15,Clinton +43,2015-06-28
+106,FOX News,375 RV,4.5,61.0,15,Clinton +46,2015-06-23
+107,NBC News/Wall St. Jrnl,247 RV,6.2,75.0,15,Clinton +60,2015-06-18
+108,Monmouth,350 RV,5.2,57.0,12,Clinton +45,2015-06-14
+109,PPP (D),471 RV,4.5,65.0,9,Clinton +56,2015-06-14
+110,FOX News,395 RV,,57.0,11,Clinton +46,2015-06-02
+111,CNN/ORC,433 A,4.5,60.0,10,Clinton +50,2015-05-31
+112,ABC News/Wash Post,376 RV,6,62.0,10,Clinton +52,2015-05-31
+113,Quinnipiac,748 RV,3.6,57.0,15,Clinton +42,2015-05-26
+114,FOX News,370 LV,,63.0,6,Clinton +50,2015-05-12
+115,PPP (D),600 RV,4,63.0,13,Clinton +50,2015-05-10
+116,FOX News,388 LV,5,62.0,4,Clinton +50,2015-04-21
+117,Quinnipiac,569 RV,4.1,60.0,8,Clinton +52,2015-04-21
+118,CNN/ORC,458 A,4.5,69.0,5,Clinton +64,2015-04-19
+119,FOX News,397 LV,5,61.0,3,Clinton +50,2015-03-31
+120,PPP (D),449 RV,4.6,54.0,6,Clinton +40,2015-03-31
+121,ABC News/Wash Post,RV,6,66.0,5,Clinton +54,2015-03-29
+122,CNN/ORC,466 A,4.5,62.0,3,Clinton +52,2015-03-15
+123,McClatchy/Marist,462 RV,4.6,60.0,5,Clinton +48,2015-03-04
+124,Quinnipiac,493 RV,4.4,56.0,4,Clinton +42,2015-03-02
+125,PPP (D),310 RV,5.6,54.0,5,Clinton +42,2015-02-22
+126,CNN/ORC,RV,5,60.0,3,Clinton +48,2015-02-15
+127,FOX News,390 RV,5,55.0,3,Clinton +43,2015-01-27
+128,PPP (D),386 RV,5,60.0,2,Clinton +50,2015-01-25
+129,Rasmussen Reports,648 LV,4,59.0,4,Clinton +47,2015-01-19
+130,CNN/ORC,469 A,4.5,66.0,3,Clinton +57,2014-12-21
+131,ABC News/Wash Post,346 RV,6,61.0,4,Clinton +48,2014-12-14
+132,FOX News,409 RV,5,62.0,3,Clinton +50,2014-12-09
+133,McClatchy/Marist,429 RV,4.7,62.0,4,Clinton +53,2014-12-09
+134,CNN/ORC,457 A,4.5,65.0,5,Clinton +55,2014-11-23
+135,Quinnipiac,610 RV,4,57.0,4,Clinton +44,2014-11-23
+136,Rasmussen Reports,LV,,62.0,,Clinton +45,2014-11-21
+137,ABC News/Wash Post,RV,,64.0,1,Clinton +53,2014-10-12
+138,McClatchy/Marist,408 RV,4.9,64.0,4,Clinton +56,2014-09-29
+139,FOX News,438 RV,4.5,64.0,,Clinton +55,2014-07-22
+140,CNN/ORC,449 A,4.5,67.0,,Clinton +57,2014-07-20
+141,Quinnipiac,610 RV,4,58.0,,Clinton +47,2014-06-30
+142,ABC News/Wash Post,RV,6,69.0,2,Clinton +62,2014-06-01
+143,FOX News,395 RV,5,69.0,,Clinton +63,2014-04-15
+144,Reason-Rupe/PSRAI,A,,64.0,,Clinton +58,2014-03-30
+145,CNN/ORC,372 A,5,64.0,,Clinton +60,2014-03-09
+146,PPP (D),429 RV,4.7,66.0,,Clinton +61,2014-03-09
+147,PPP (D),334 RV,5.4,67.0,,Clinton +60,2014-01-26
+148,ABC News/Wash Post,RV,5,73.0,,Clinton +64,2014-01-23
+149,Quinnipiac,803 RV,3.5,65.0,,Clinton +58,2014-01-19
+150,FOX News,412 RV,,68.0,,Clinton +61,2013-12-16
+151,PPP (D),453 RV,,66.0,,Clinton +60,2013-12-15
+152,Quinnipiac,1095 RV,3,66.0,,Clinton +59,2013-12-09
+153,McClatchy/Marist,466 RV,4.5,65.0,,Clinton +56,2013-12-05
+154,CNN/ORC,RV,5.5,64.0,,Clinton +57,2013-11-20
+155,Rasmussen Reports,LV,,70.0,,Clinton +67,2013-11-08
+156,PPP (D),400 RV,4.9,67.0,,Clinton +63,2013-10-31
+157,Quinnipiac,RV,,61.0,,Clinton +54,2013-09-29
+158,CNN/ORC,448 RV,4.5,65.0,,Clinton +58,2013-09-08
+159,Rasmussen Reports,LV,,63.0,,Clinton +58,2013-08-02
+160,PPP (D),418 RV,4.7,52.0,,Clinton +46,2013-07-21
+161,McClatchy/Marist,426 RV,4.7,63.0,,Clinton +57,2013-07-18
+162,PPP (D),589 RV,4,63.0,,Clinton +59,2013-05-09
+163,Quinnipiac,RV,,65.0,,Clinton +61,2013-04-29
+164,PPP (D),666 RV,3.8,64.0,,Clinton +59,2013-03-30
+165,PPP (D),416 RV,4.8,58.0,,Clinton +50,2013-02-03
+166,PPP (D),400 RV,4.9,57.0,,Clinton +53,2013-01-06
+167,PPP (D),454 RV,4.6,61.0,,Clinton +56,2012-12-02
